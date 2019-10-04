@@ -1,15 +1,8 @@
 
 # REBEL-FRAMEWORK
-![version](https://img.shields.io/badge/version-v0.1.0-green.svg)
-![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg) 
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
-![Modules](https://img.shields.io/badge/modules-43-green.svg)
-<br>
-automate the automation
-<br>
 ## START
 ``` 
-git clone https://github.com/rebellionil/rebel-framework.git
+git clone https://github.com/alex14324/R-F.git
 cd rebel-framework
 bash setup.sh
 bash rebel.sh
@@ -128,35 +121,4 @@ https://github.com/rebellionil/rebel-framework/issues
 - [ ] Make rebel scriptable and add command line arguments 
 - [ ] Add bruteforce modules
 
-## DONATE
-| COIN | ADDRESS |
-------|----------|
-| ETH | 0x46409ba4e86313d99a5e13DD1Ca5f82d95529553 |
-| BTC | 11wqnCon1V3NmYGbkLtZtAWaqbH3Nc3VS          |
-## EXTERNAL PROJECTS USED INSIDE THE FRAMEWORK 
-https://github.com/rebe11ion/tornado
-<br>
-https://github.com/rebe11ion/CryptNote
-<br>
-https://github.com/1N3/BlackWidow
-<br>
-https://github.com/Dionach/CMSmap
-<br>
-https://github.com/vincepare/DirScan
-<br>
-https://github.com/s0md3v/Decodify
-<br>
-https://github.com/UndeadSec/SocialFish
-<br>
-https://github.com/evait-security/weeman
-<br>
-https://github.com/m4ll0k/Infoga
-<br>
-https://github.com/Moham3dRiahi/Th3inspector
-<br>
-https://github.com/sdushantha/qr-filetransfer
-<br>
-
-- special thanks for Mahmoud Mohamed for helping improve the project quality by testing it in several environments.
-
-© 2018
+© 2019
